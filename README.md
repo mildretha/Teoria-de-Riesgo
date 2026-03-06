@@ -19,4 +19,5 @@ Comprender y aplicar modelos cuantitativos para medir, analizar y gestionar el r
 
 ## Autor
 Mild🫧
+
 <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/2b2244eb-a76a-4749-8db7-9e0c30ff2e53" />
